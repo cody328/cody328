@@ -50,11 +50,9 @@
 </tr>
 </table>  
 
-# 👋 Hello! I'm Cody
-
 I am a passionate tech enthusiast and IoT firmware engineer with expertise in various facets of technology. My experience spans *ESP32 firmware development, wireless communication, secure cloud integration,* and *edge computing,* all enriched by a keen interest in *artificial intelligence*. I thrive on exploring innovative solutions that leverage these technologies to create efficient and secure systems.  
 
-## 🌟 Skills and Expertise  
+## Skills and Expertise  
 
 - **IoT Development with ESP32**  
   - Proficient in C programming, ESP-IDF, ESP-ADF  
