@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://omdayal.com/wp-content/uploads/2022/06/internet-of-things-in-engineering-header.jpg" align="center" style="width: 100%" />
+<img src="./cody-header.jpg" align="center" style="width: 100%" />
 </div>  
 <table><tr><td valign="top" width="33%">
 
@@ -50,13 +50,28 @@
 </tr>
 </table>  
 
-## Hello,
+# 👋 Hello! I'm Cody
 
-I am a **Senior Embedded/IoT Engineer** with **14 years of extensive experience** in **full-stack web development**, **microservices**, **embedded systems**, **firmware development**, **machine learning**, **cloud computing**, and **IoT**. Recently, I have expanded my expertise to include **chip design with Intel FPGA**.
+I am a passionate tech enthusiast and IoT firmware engineer with expertise in various facets of technology. My experience spans *ESP32 firmware development, wireless communication, secure cloud integration,* and *edge computing,* all enriched by a keen interest in *artificial intelligence*. I thrive on exploring innovative solutions that leverage these technologies to create efficient and secure systems.  
 
-My career has been driven by a strong passion for **edge computing** and **embedded AI**, with a specific focus on **Intel FPGA**, **Verilog**, **RISC-V**, **Nios-V**, **TensorFlow**, **TensorFlow Lite**, and **OpenVINO**. I am dedicated to developing **high-performance**, **low-latency**, and **low-power embedded AI solutions**, aiming to drive future innovations in IoT.
+## 🌟 Skills and Expertise  
 
-My professional vision is to harness **cutting-edge technologies** to create **robust**, **efficient**, and **scalable IoT solutions**. I am committed to **continuous learning** and staying at the forefront of technological advancements to deliver **exceptional results** and push the boundaries of what is possible in the field of **IoT** and **embedded systems**.
+- **IoT Development with ESP32**  
+  - Proficient in C programming, ESP-IDF, ESP-ADF  
+  - Skilled in WiFi, BLE, and FreeRTOS for robust IoT applications  
+
+- **Embedded Systems**  
+  - Experienced with STM32 development using Keil, CubeMX, and CubeIDE  
+
+- **FPGA and Digital Signal Processing**  
+  - Familiar with FPGA development using Vivado/Vitis  
+  - Capable in Verilog and VHDL for hardware design  
+
+- **Cloud Integration**  
+  - Developed IoT solutions using AWS IoT and MQTT, focusing on security best practices  
+
+- **Edge Computing and AI**  
+  - Expertise in Edge AI with ONNX, Jetson CUDA/C++, and TensorFlow Lite
 
 
 <!-- 
