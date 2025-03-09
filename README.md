@@ -44,7 +44,7 @@
 </tr>
 </table>  
 
-I am a passionate tech enthusiast and IoT firmware engineer with expertise in various facets of technology. My experience spans *ESP32 firmware development, wireless communication, secure cloud integration,* and *edge computing,* all enriched by a keen interest in *IoT* and *artificial intelligence*. I thrive on exploring innovative solutions that leverage these technologies to create efficient and secure systems.  
+I am a passionate tech enthusiast and IoT firmware engineer with expertise in various facets of technology. My experience spans *ESP32 firmware development, wireless communication, secure cloud integration,* and *edge computing,* all enriched by a keen interest in *Internet of Things* and *Artificial Intelligence*. I thrive on exploring innovative solutions that leverage these technologies to create efficient and secure systems.  
 
 ## Skills and Expertise  
 
