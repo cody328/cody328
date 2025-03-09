@@ -17,7 +17,6 @@
 
 ### IoT & Firmware  
 <div align="center">
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnIxOKxQld6NPrJnpTMtqyc4qYCptGiRVbYK5TNQ3i6t7kWxXR8TJXSFemevT3owxXao&usqp=CAU" alt="Azure" height="50" /></a>  
 <a href="https://aws.amazon.com/iot/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/tXi5rTVQdi3Nk24wdUKOED1NA0ovw6GsZmfLSjZQNRmLUDtdAPVaas7NujI9Pc4ttrU" alt="AWS IoT" height="50" /></a>  
 <a href="https://www.zephyrproject.org/" target="_blank"><img style="margin: 10px" src="https://cdn-b.saashub.com/images/app/service_logos/38/55d0b22bf419/medium.png?1553251232" alt="Zephyr" height="50" /></a>
