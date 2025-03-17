@@ -48,27 +48,3 @@
 </table>  
 
 I am a passionate tech enthusiast and IoT firmware engineer with expertise in various facets of technology. My experience spans *ESP32 firmware development, wireless communication, secure cloud integration,* and *edge computing,* all enriched by a keen interest in *Internet of Things* and *Artificial Intelligence*. I thrive on exploring innovative solutions that leverage these technologies to create efficient and secure systems.  
-
-## Skills and Expertise  
-
-- **IoT Development with ESP32**  
-  - Proficient in C programming, ESP-IDF, ESP-ADF  
-  - Skilled in WiFi, BLE, and FreeRTOS for robust IoT applications  
-
-- **Embedded Systems**  
-  - Experienced with STM32 development using Keil, CubeMX, and CubeIDE  
-
-- **FPGA and Digital Signal Processing**  
-  - Familiar with FPGA development using Vivado/Vitis  
-  - Capable in Verilog and VHDL for hardware design  
-
-- **Cloud Integration**  
-  - Developed IoT solutions using AWS IoT and MQTT, focusing on security best practices  
-
-- **Edge Computing and AI**  
-  - Expertise in Edge AI with ONNX, Jetson CUDA/C++, and TensorFlow Lite
-
-
-<!-- 
-<h3 align="right">Connect with me:</h3><p align="right">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brian-hernandez-phi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-hernandez-phi/" height="30" width="40" /></a></p> -->
