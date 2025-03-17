@@ -22,7 +22,8 @@
 <a href="https://www.zephyrproject.org/" target="_blank"><img style="margin: 10px" src="https://cdn-b.saashub.com/images/app/service_logos/38/55d0b22bf419/medium.png?1553251232" alt="Zephyr" height="50" /></a>
 <a href="https://www.nordicsemi.com/About-us" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nordic_Semiconductor_Company_Logo.svg/768px-Nordic_Semiconductor_Company_Logo.svg.png?20190315233057" alt="Nordic" height="50" /></a>
 <a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://www.nettimelogic.com/resources/FpgaServices.png" alt="InfluxDB" height="50" /></a> 
-<a href="https://mqtt.org/" target="_blank"><img style="margin: 10px" src="https://media.licdn.com/dms/image/D5612AQE3XK8kOWO8aA/article-cover_image-shrink_600_2000/0/1693403810082?e=2147483647&v=beta&t=ScqaazDRq2pvTBGGxObwPJ8I63ZEhAY20f7T9d8lhLU" alt="MQTT" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
 
 </div>
 
